@@ -1,0 +1,37 @@
+{
+  "name": "nucleo-dapphoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaS-Tochi/nucleo-dapphoot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DanielaS-Tochi/nucleo-dapphoot/issues"
+  },
+  "homepage": "https://github.com/DanielaS-Tochi/nucleo-dapphoot#readme",
+  "devDependencies": {
+    "@chainlink/contracts": "^1.3.0",
+    "@chainlink/env-enc": "^1.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
+    "@openzeppelin/contracts": "^5.3.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.14.1",
+    "hardhat": "^2.23.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "viem": "^2.27.2"
+  }
+}
