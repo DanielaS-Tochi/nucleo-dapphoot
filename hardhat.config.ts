@@ -3,7 +3,7 @@ import "@nomicfoundation/hardhat-toolbox-viem";
 import "@chainlink/env-enc";
 
 const config: HardhatUserConfig = {
-  solidity: "0.8.20",
+  solidity: "0.8.29",
   networks: {
     hardhat: {},
     arbitrumSepolia: {
